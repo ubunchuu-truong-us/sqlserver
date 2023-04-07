@@ -10,7 +10,7 @@ services:
     environment:
       - ACCEPT_EULA=Y
       - MSSQL_PID=Developer
-      - MSSQL_USER=admin
+      - MSSQL_USER=SA
       - MSSQL_SA_PASSWORD=Ubunchuu@2022
     volumes:
       - ./sql:/var/opt/mssql
