@@ -1,6 +1,6 @@
 # Ubunchuu Trường Ú - SQL Server
 
-> :bulb: Cringe cực độ vì Microsoft không thiết kế SQL Management Studio cho Linux? Không sao vì đã có image `sqlserver`!
+> :bulb: Cringe cực độ vì Microsoft không thiết kế SQL Server cho Linux? Không sao vì đã có image `sqlserver`!
 
 ## :question: Dành cho ai
 Dành cho những bạn không dùng Windows và muốn học SQL-Server, Repo này sẽ giúp các bạn sử dụng Image `sqlserver` trên **Docker** và host thông qua `localhost`. Từ đó, mọi người có thể connect trực tiếp thông qua SQL-Client như Azure Data Studio hay DBeaver.
