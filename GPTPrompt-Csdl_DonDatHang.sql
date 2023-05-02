@@ -9,7 +9,7 @@ with type attributes below:
  MaNCC int, MaKH int, TenNCC varchar(40), HoTen varchar(50), Email varchar(40), DiaChi varchar(50), ThanhPho varchar(40), SoDT varchar(15), QuocGia varchar(40), MaDDH int, MaMH int , NgayDatHang datetime, TenMH varchar(50), TriGia decimal(12,2), DonGia decimal(12,2) ,MaCT int, TinhTrang {0, 1}, SoLuong int
 */
 DROP DATABASE IF EXISTS Csdl_DonDatHang;
-CREATE Csdl_DonDatHang;
+CREATE DATABASE Csdl_DonDatHang;
 USE Csdl_DonDatHang;
 
 --Create NHACUNGCAP table
